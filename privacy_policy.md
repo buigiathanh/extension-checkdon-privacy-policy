@@ -206,7 +206,7 @@ Bản mới nhất được công bố tại tệp / trang Privacy Policy chính
 Nếu có câu hỏi về quyền riêng tư, yêu cầu truy cập / sửa / xóa dữ liệu, vui lòng liên hệ:
 
 - **Sản phẩm:** Shopee Check Đơn Hoàn (CheckDon)  
-- **Email hỗ trợ:** `[điền email liên hệ của bạn]`  
+- **Email hỗ trợ:** `[hotro@checkdon.com]`  
 
 Chúng tôi sẽ phản hồi trong thời gian hợp lý.
 
